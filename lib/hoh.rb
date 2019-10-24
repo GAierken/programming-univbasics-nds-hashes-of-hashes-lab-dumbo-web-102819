@@ -4,8 +4,7 @@
 #
 # The tests will guide your construction.
 #
- HoH= {
-    PORTION_1 = {
+ HoH= {:PORTION_1 => {
    label: "Kingdom",
   sub_category: {
      label: "Phylum",
